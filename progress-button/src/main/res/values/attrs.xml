@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <declare-styleable name="ProgressButton">
+        <attr name="error_text" format="string" />
+        <attr name="error_color" format="color" />
+        <attr name="idle_text" format="string" />
+        <attr name="idle_color" format="color" />
+        <attr name="progress_bar_size" format="dimension" />
+        <attr name="progress_bar_color" format="color" />
+    </declare-styleable>
+
+</resources>
