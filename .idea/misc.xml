@@ -3,7 +3,11 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/usuario/AndroidStudioProjects/ProgressButtonLibrary/app/src/main/res/drawable/button_bg.xml" value="0.1415" />
         <entry key="..\:/Users/usuario/AndroidStudioProjects/ProgressButtonLibrary/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/Users/usuario/AndroidStudioProjects/ProgressButtonLibrary/progress-button/src/main/res/drawable/default_disabled_bd.xml" value="0.1415" />
+        <entry key="..\:/Users/usuario/AndroidStudioProjects/ProgressButtonLibrary/progress-button/src/main/res/drawable/default_enabled_bg.xml" value="0.1415" />
+        <entry key="..\:/Users/usuario/AndroidStudioProjects/ProgressButtonLibrary/progress-button/src/main/res/drawable/default_progress_button_bg.xml" value="0.1415" />
         <entry key="..\:/Users/usuario/AndroidStudioProjects/ProgressButtonLibrary/progress-button/src/main/res/layout/res_progress_button.xml" value="0.17074275362318841" />
       </map>
     </option>

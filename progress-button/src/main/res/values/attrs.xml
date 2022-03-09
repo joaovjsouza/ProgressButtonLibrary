@@ -2,12 +2,10 @@
 <resources>
 
     <declare-styleable name="ProgressButton">
-        <attr name="error_text" format="string" />
-        <attr name="error_color" format="color" />
-        <attr name="idle_text" format="string" />
-        <attr name="idle_color" format="color" />
-        <attr name="progress_bar_size" format="dimension" />
-        <attr name="progress_bar_color" format="color" />
+        <attr name="color_text" format="color" />
+        <attr name="color_progress" format="color" />
+        <attr name="button_text" format="string" />
+        <attr name="button_background" format="reference" />
     </declare-styleable>
 
 </resources>
